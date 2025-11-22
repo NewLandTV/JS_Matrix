@@ -2,6 +2,8 @@
 
 This is matrix rain. Implement programming language is JavaScript.
 
+[![Development Note p.91](https://img.youtube.com/vi/HY0JY_OGe78/0.jpg)](https://www.youtube.com/watch?v=HY0JY_OGe78)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
